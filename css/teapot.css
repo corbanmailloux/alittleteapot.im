@@ -1,3 +1,7 @@
+body{
+  background-color: white;
+}
+
 .teacontainer{
   display: table;
   margin: 0 auto;
