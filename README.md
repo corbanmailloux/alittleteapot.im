@@ -5,4 +5,4 @@ Really it was a placeholder for a fun domain name. If I were to make a Java pack
 
 To get the lettering just right, it uses [animate.css](http://daneden.github.io/animate.css/), [lettering.js]()http://letteringjs.com/, and [textillate.js](http://textillate.js.org/).
 
-The domain has since expired so I host the animation at [tea.corb.co](http://tea.corb.co).
+The domain has since expired.
